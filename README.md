@@ -1,7 +1,10 @@
 # MOXA NPort Real TTY Driver for Linux
 
+**All known drivers wasn't working for me, I needed to make few changes**
+
 * [x] Kernel 3.11
 * [ ] Tested :P 
+
 
 
 Additional links:
