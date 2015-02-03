@@ -1,0 +1,6 @@
+{
+    "baudrate": 10, 
+    "build_folder": "Y:\\home_moduled\\lib\\arduino\\sources\\ReceiveDemo_Advanced", 
+    "full_compilation": true, 
+    "serial_port": 1
+}
